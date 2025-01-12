@@ -17,3 +17,4 @@ export 'src/chart/scatter_chart/scatter_chart_data.dart';
 export 'src/chart/line_chart/line_chart_painter.dart';
 export 'src/chart/line_chart/line_chart_renderer.dart';
 export 'src/chart/base/base_chart/base_chart_painter.dart';
+export 'src/utils/canvas_wrapper.dart';
